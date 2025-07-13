@@ -1,0 +1,26 @@
+Half-Life Deathmatch Model "Humer"
+3D artist: 3xsistenZ
+
+Place the folder called "humer" in the
+
+\sierra\half-life\valve\models\player folder.
+
+this is a some gus model,i used for this skin its really crappy but its quite cool,i think it looks like Homer thats why i named it "Humer"because Homer is fatter!
+3xsistenZ
+
+Contact me at "fzas@usa.net" if you have any problems, requests or general quiries about modeling\skinning for H.L,e-mail me!
+
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+
+(C)2000,Frederik (3xsistenZ) Larsson
+
+

@@ -1,0 +1,16 @@
+This model was created by Ixnay   --  Ixnay@giga4u.de
+
+This is the MP (Military Police) 1.1 skin !!!
+
+Installation:
+-------------
+Just unzip this zip file into your Half-Life\valve\models\player\mp directory and run the game. 
+
+MAIL ME !!!
+
+
+IXNAY
+
+
+Homepage:
+www.matze.privat.ms
