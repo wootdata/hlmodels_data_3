@@ -198,6 +198,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -232,6 +233,7 @@
 			"type": 8
 		}
 	],
+	"date": 1638359802,
 	"events": [
 		{
 			"event": 2001,
@@ -341,7 +343,11 @@
 	],
 	"id": 1414743113,
 	"md5": "deda8479b458da74819e5432710c1f84",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "FScathach.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

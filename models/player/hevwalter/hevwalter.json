@@ -53,6 +53,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -87,6 +88,7 @@
 			"type": 8
 		}
 	],
+	"date": 1579575786,
 	"events": [
 		{
 			"event": 2001,
@@ -196,7 +198,11 @@
 	],
 	"id": 1414743113,
 	"md5": "152467b657304e8f4d33cb3f38851a86",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\sci_hev\\sci_hev.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

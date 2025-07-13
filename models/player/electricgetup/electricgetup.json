@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1210988482,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ea1e436ce45c2f030680d92711fa5093",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Sierra\\Half-Life\\valve\\models\\player\\RaoulHooD\\Animate\\RaoulH$",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -85,6 +86,7 @@
 			"type": 32
 		}
 	],
+	"date": 1142637278,
 	"events": [
 		{
 			"event": 2001,
@@ -194,7 +196,11 @@
 	],
 	"id": 1414743113,
 	"md5": "701f9c45d61e139c312d68267aeb4921",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hgrunt.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

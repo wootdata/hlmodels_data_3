@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -117,6 +118,7 @@
 			"type": 8
 		}
 	],
+	"date": 1594761421,
 	"events": [
 		{
 			"event": 2001,
@@ -226,7 +228,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6269dfa9e80cc40ebb1229c0b799f940",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\helmet19\\helmet19.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

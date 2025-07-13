@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -80,6 +81,7 @@
 			"type": 32
 		}
 	],
+	"date": 1579142141,
 	"events": [
 		{
 			"event": 2001,
@@ -189,7 +191,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0be1e35242da6624bf0b541d148586e7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\player211\\player211.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

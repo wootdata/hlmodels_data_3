@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -70,6 +71,7 @@
 			"type": 32
 		}
 	],
+	"date": 1643563475,
 	"events": [
 		{
 			"event": 2001,
@@ -179,7 +181,11 @@
 	],
 	"id": 1414743113,
 	"md5": "83511b6692f98d8cd2efbfc3b1cbdf00",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ajax.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

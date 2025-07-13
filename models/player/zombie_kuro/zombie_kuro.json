@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1644737904,
 	"events": [
 		{
 			"event": 2001,
@@ -220,7 +222,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cf2fdcd9fddf6ef242944a83d037f454",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zombie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

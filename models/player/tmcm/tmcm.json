@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 919233480,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3f7df6a0385b8c18cd4ac78b1385f697",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/tmcm/TMCM.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

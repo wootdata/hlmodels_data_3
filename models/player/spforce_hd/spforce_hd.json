@@ -78,6 +78,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -112,6 +113,7 @@
 			"type": 8
 		}
 	],
+	"date": 1593889420,
 	"events": [
 		{
 			"event": 2001,
@@ -221,7 +223,11 @@
 	],
 	"id": 1414743113,
 	"md5": "110a9c703d7b6142a40634d85cb52109",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\recon7\\recon7.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

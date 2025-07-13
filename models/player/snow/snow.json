@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1198863178,
 	"events": [
 		{
 			"event": 2001,
@@ -325,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3b92a23f8eeab62422eafb4b9bc66379",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\games\\half-life\\goldeneye\\models\\player\\soldier\\soldier.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

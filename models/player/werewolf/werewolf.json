@@ -83,6 +83,7 @@
 			"name": "detail"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -125,6 +126,7 @@
 			"type": 32
 		}
 	],
+	"date": 1468818346,
 	"events": [
 		{
 			"event": 2001,
@@ -472,7 +474,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b8c74322284f329e999d8efdeb21d9bb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Werewolf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

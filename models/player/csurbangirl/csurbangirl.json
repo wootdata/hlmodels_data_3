@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1098042240,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5429454963c47f7a795979583b7eace6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CSUrbanGirl.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

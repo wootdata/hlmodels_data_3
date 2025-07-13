@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 9,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 928227420,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "92d5da8d8b2c6f5f11d302c387f1b7ad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:/Half-Life/valve/models/player/funk/funk.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

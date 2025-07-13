@@ -38,6 +38,7 @@
 			"name": "hands"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1708807438,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "66eacbc4a948250d0ae949cadacf9b20",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mascaly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

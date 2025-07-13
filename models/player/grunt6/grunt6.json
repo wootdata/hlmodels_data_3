@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 6,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1592656450,
 	"events": [
 		{
 			"event": 2001,
@@ -186,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0f4826ef538f46b2c7ec497789e699d6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "grunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

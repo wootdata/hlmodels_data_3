@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -75,6 +76,7 @@
 			"type": 32
 		}
 	],
+	"date": 1098042240,
 	"events": [
 		{
 			"event": 2001,
@@ -184,7 +186,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cd1f0baa73d811ef367371dbbe634460",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CSvip.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
