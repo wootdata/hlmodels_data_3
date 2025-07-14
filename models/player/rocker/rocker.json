@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}
@@ -20,14 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "sarge",
-					"polys": 819,
-					"verts": 422
-				}, 
-				{
-					"name": "sarge",
-					"polys": 819,
-					"verts": 422
+					"name": "dr_freeman",
+					"polys": 642,
+					"verts": 366
 				}
 			],
 			"name": "body"
@@ -36,7 +31,7 @@
 	"colorable": true,
 	"controllers": [
 		{
-			"bone": 14,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -44,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -52,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 16,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -60,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 17,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1564436064,
+	"date": 1752468471,
 	"events": [
 		{
 			"event": 2001,
@@ -177,11 +172,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "890ecaa9b53bed43e07b4829bd702049",
+	"md5": "c98dfb9d96f6a6e96c6a0978e67ff613",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "D:\\Documents and Settings\\Martin\\Desktop\\red\\red.mdl",
-	"preview": true,
+	"name": "dr_freeman.mdl",
+	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 333336,
+	"size": 334604,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -594,40 +589,16 @@
 			"parent": 3
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Toe02",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 8
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Toe02",
-			"parent": 12
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -635,54 +606,78 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 14
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 15
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 16
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 17
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 20
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 21
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 22
+			"parent": 16
 		}, 
 		{
-			"name": "Bip01 R Arm",
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
 			"parent": 18
 		}, 
 		{
+			"name": "Bip01 L Finger12",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
 			"parent": 26
 		}
 	],
@@ -690,22 +685,22 @@
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1073741824,
-			"height": 256,
-			"name": "Remap0_000_127_127.bmp",
-			"width": 256
-		}, 
-		{
 			"flags": 0,
-			"height": 8,
-			"name": "cigar.bmp",
-			"width": 16
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "head.bmp",
+			"height": 128,
+			"name": "DM_paper.bmp",
 			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "DM_Face.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "DM_Base.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
