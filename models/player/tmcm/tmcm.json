@@ -180,6 +180,7 @@
 	"md5": "3f7df6a0385b8c18cd4ac78b1385f697",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/tmcm/TMCM.mdl",
 	"preview": true,
 	"readme": false,

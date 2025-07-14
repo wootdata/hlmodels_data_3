@@ -175,6 +175,7 @@
 	"md5": "235a56d23261bbb224a5191cb2d5b528",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/silencer/silencer.mdl",
 	"preview": false,
 	"readme": false,

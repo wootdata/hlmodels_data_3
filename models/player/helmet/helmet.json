@@ -180,6 +180,7 @@
 	"md5": "d77d891bd059f4b31d21d5c02b0a4c65",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Helmet/Helmet.mdl",
 	"preview": true,
 	"readme": false,

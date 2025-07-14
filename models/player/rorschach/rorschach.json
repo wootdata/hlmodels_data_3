@@ -175,6 +175,7 @@
 	"md5": "eb9eae19063e73763f6d86483ddd5f02",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/rorschach/rorschach.mdl",
 	"preview": true,
 	"readme": false,

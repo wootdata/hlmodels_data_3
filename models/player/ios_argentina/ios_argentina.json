@@ -183,6 +183,7 @@
 	"md5": "83511b6692f98d8cd2efbfc3b1cbdf00",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "ajax.mdl",
 	"preview": true,
 	"readme": false,
