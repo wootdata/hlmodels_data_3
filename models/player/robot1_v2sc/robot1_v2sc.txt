@@ -1,0 +1,37 @@
+Robot (lost in space) -  Half-Life character  -  readme.txt
+March 9, 1999
+--------------------------------
+Character Stats:
+polys		646
+verts		328
+texture		256x256x256
+chrome		NO
+animation	Half-Life
+--------------------------------
+Character Info:
+This character is based on the robot 
+from the 60's tv show.  I made the character
+because the toy waz sitting in my office
+and I watched the show as a kid.
+WARNING WARNING!!!
+--------------------------------
+
+Edwin Reck	
+ereck@inlandprod.com
+http://www.inlandprod.com
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : robot1_v2
+Source Model Hash : 68ebf820d24f44d8398fd38a19c63f14
+Source Model Date : 1590727225 (2020/05/28)
+
+Ported Model Name : robot1_v2sc
+Ported Model Hash : cd595a5337570a24da454095b6778654
+Ported Model Date : 1752492219 (2025/07/14)

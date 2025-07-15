@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : momia
+Source Model Hash : bf4c5886a2f5e16a10082f57345e9999
+Source Model Date : 1233322316 (2009/01/30)
+
+Ported Model Name : momia_v1sc
+Ported Model Hash : fa24c296825056c5534977fc3e5decf2
+Ported Model Date : 1752492038 (2025/07/14)

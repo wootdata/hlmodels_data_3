@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_elite_color2
+Source Model Hash : 27291e38561db317ad9ee0f434b31e52
+Source Model Date : 1631453648 (2021/09/12)
+
+Ported Model Name : ta_c_elite_color2_v1sc
+Ported Model Hash : 743b5f7580d67bec8fd1735a06fba0c5
+Ported Model Date : 1752492364 (2025/07/14)

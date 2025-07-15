@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : steve_clasico
+Source Model Hash : 6ac5b8637b2c5bc2de8510ced66573ea
+Source Model Date : 1669007922 (2022/11/20)
+
+Ported Model Name : steve_clasico_v1sc
+Ported Model Hash : a2bec32e07cbe82dfe5a0221352cadd9
+Ported Model Date : 1752492345 (2025/07/14)

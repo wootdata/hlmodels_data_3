@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_nagae_iku_v2
+Source Model Hash : 6a330d031f9758e040082f7124fc078b
+Source Model Date : 1456264949 (2016/02/23)
+
+Ported Model Name : touhou_nagae_iku_v2sc
+Ported Model Hash : a68a0016079e005c3a6a42ebe20dd913
+Ported Model Date : 1752492442 (2025/07/14)

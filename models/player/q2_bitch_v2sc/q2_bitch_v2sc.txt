@@ -1,0 +1,30 @@
+                               Q2-Bitch
+
+The Bitch creature from Quake 2.
+I just took the model from the game and added a Half-Life skeleton.
+I change a few of the animations, Idles, Deaths, jump........
+
+
+   INSTALLATION:  UNZIP INTO  halflife\valve\models\player\Q2_Bitch folder
+
+
+                             Author: MARQUIS 
+
+                     (m.haly@cwcom.net) 1/4/00
+ 
+              http://www.hlskins.free-online.co.uk/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q2_bitch_v2
+Source Model Hash : 4efecae632f0b05bbc996816cb9d881a
+Source Model Date : 1583376092 (2020/03/04)
+
+Ported Model Name : q2_bitch_v2sc
+Ported Model Hash : 7b0ccf6818b293630b3c11b985347b07
+Ported Model Date : 1752492176 (2025/07/14)

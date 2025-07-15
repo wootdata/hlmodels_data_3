@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : supersonic_dark_s5
+Source Model Hash : 3e7007f70660003614b103c714d72a05
+Source Model Date : 1455631185 (2016/02/16)
+
+Ported Model Name : supersonic_dark_v1sc
+Ported Model Hash : 65e89df06dbea14eb0d995b890f6ce3f
+Ported Model Date : 1752492351 (2025/07/14)

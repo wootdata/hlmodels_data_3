@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_nekopara_chocola
+Source Model Hash : 38ddd6fbe9c4b0571d37ac9ce9cd3d5e
+Source Model Date : 1552248756 (2019/03/10)
+
+Ported Model Name : 2d_np_chocola_v1sc
+Ported Model Hash : 2bcf86f87ab3b599b005d2bbe65b4e6a
+Ported Model Date : 1752491316 (2025/07/14)

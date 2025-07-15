@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_manuka_alt1
+Source Model Hash : c7bb0c81986447e3e2b6d5b8e0e52741
+Source Model Date : 1695060837 (2023/09/18)
+
+Ported Model Name : kz_manuka_alt1_v1sc
+Ported Model Hash : 35b6d39f42ffa4361fb61897435851c1
+Ported Model Date : 1752491922 (2025/07/14)

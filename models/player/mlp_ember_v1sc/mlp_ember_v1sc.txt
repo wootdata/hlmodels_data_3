@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_ember
+Source Model Hash : 2beb7f4d94d56900a8a6d07a2a871ae6
+Source Model Date : 1514906999 (2018/01/02)
+
+Ported Model Name : mlp_ember_v1sc
+Ported Model Hash : e3c6b05da52d8cd8eb25aecbce040ab5
+Ported Model Date : 1752492035 (2025/07/14)

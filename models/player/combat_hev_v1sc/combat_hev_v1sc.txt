@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combat_hev
+Source Model Hash : a55c358c4444ac746a7398a5b55b6132
+Source Model Date : 1618726720 (2021/04/17)
+
+Ported Model Name : combat_hev_v1sc
+Ported Model Hash : b7f10e1b761ddfa3abf56f4181c679b6
+Ported Model Date : 1752491506 (2025/07/14)

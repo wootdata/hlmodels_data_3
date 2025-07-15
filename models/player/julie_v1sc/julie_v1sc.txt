@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : julie
+Source Model Hash : d11fbf9d5efb25abeb124fe0ddd48131
+Source Model Date : 1462801282 (2016/05/09)
+
+Ported Model Name : julie_v1sc
+Ported Model Hash : 24a0b5ee8d9c7a1b2feb7807e0ae98fa
+Ported Model Date : 1752491866 (2025/07/14)

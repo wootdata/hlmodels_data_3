@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : t&f_toro
+Source Model Hash : fb223e996eba497be018f6970d5103a1
+Source Model Date : 1742518358 (2025/03/20)
+
+Ported Model Name : t&f_toro_v1sc
+Ported Model Hash : 072ec264a1272e953f883531beac8d2f
+Ported Model Date : 1752492357 (2025/07/14)

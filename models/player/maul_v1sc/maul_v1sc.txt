@@ -1,0 +1,20 @@
+Evan Gluck		
+Darth Maul Skin	
+egluck@bu.edu
+This is Darth Maul from the Phantom Menace.  He is da man!
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : maul
+Source Model Hash : 77cb783d52d7059dcc17c8698f20a3b2
+Source Model Date : 1590886657 (2020/05/30)
+
+Ported Model Name : maul_v1sc
+Ported Model Hash : acfc9292d6b50477c28ed0932536fb4c
+Ported Model Date : 1752491993 (2025/07/14)

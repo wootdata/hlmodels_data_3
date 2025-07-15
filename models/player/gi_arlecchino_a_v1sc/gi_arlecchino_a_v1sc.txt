@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_arlecchino_a
+Source Model Hash : ecfbe65ad34fc1e9f03843666b41cc1e
+Source Model Date : 1719936831 (2024/07/02)
+
+Ported Model Name : gi_arlecchino_a_v1sc
+Ported Model Hash : 5466d7b5ea85e7cbbe0fb98d3f838e34
+Ported Model Date : 1752491704 (2025/07/14)

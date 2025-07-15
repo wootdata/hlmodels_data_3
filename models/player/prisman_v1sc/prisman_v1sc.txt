@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : prisman
+Source Model Hash : 9f296fc430376fb6f5ab3a9dee34f974
+Source Model Date : 1609572704 (2021/01/01)
+
+Ported Model Name : prisman_v1sc
+Ported Model Hash : 7bb3fb9909cda872f3ab842ff286a7f9
+Ported Model Date : 1752492168 (2025/07/14)

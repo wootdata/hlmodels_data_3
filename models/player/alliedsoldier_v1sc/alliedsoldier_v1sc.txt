@@ -1,0 +1,19 @@
+AlliedSoldier.mdl by DOD Team and or VALVe
+
+converted to SC3.0 by -={-Shadow-}=-
+ShadowMaps.filefront.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alliedsoldier
+Source Model Hash : ce9a3f80928519cb3e18805ff892c198
+Source Model Date : 1264594203 (2010/01/27)
+
+Ported Model Name : alliedsoldier_v1sc
+Ported Model Hash : 496d0cfaa2d4bc844184c46027c058e7
+Ported Model Date : 1752491353 (2025/07/14)

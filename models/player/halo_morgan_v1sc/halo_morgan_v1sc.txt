@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halo_morgan
+Source Model Hash : 2b7a84f2a1783e4ec3b366dcc0d42780
+Source Model Date : 1236700346 (2009/03/10)
+
+Ported Model Name : halo_morgan_v1sc
+Ported Model Hash : fb4ae4ca629f7a2213891898f3c80aa9
+Ported Model Date : 1752491766 (2025/07/14)

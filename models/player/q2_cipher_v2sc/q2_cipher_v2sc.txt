@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q2_cipher_v2
+Source Model Hash : 28ddedf708844fe6d09eb3f8b1017c58
+Source Model Date : 1583376233 (2020/03/04)
+
+Ported Model Name : q2_cipher_v2sc
+Ported Model Hash : c7889667e04f39d1342ee1d6571a24a9
+Ported Model Date : 1752492176 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : angel_swat_commander
+Source Model Hash : d4a224fd98ff81e65b4edf3341075d36
+Source Model Date : 1541984885 (2018/11/11)
+
+Ported Model Name : angel_swat_cmdr_v1sc
+Ported Model Hash : 2b1d7ae0c862428f62350188e08a23f1
+Ported Model Date : 1752491361 (2025/07/14)

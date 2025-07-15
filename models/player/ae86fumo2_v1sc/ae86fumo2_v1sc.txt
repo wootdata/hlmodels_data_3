@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ae86fumo2
+Source Model Hash : 858d2e3f0ce0cf658083c26fb14e6881
+Source Model Date : 1709782855 (2024/03/06)
+
+Ported Model Name : ae86fumo2_v1sc
+Ported Model Hash : 45624509d50e3b7a1b0ae5319620c034
+Ported Model Date : 1752491333 (2025/07/14)

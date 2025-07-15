@@ -1,0 +1,19 @@
+Main model - Ironoak team
+HL Gibs models - HL
+Reskin and hackjob - _civiliaN^SoldieR_
+Anims Copied: CyborgDragon
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ_last_zombie
+Source Model Hash : a0e6dada2bdd72bdf6dd2094c63a38f9
+Source Model Date : 1266820566 (2010/02/21)
+
+Ported Model Name : civ_last_zombie_v1sc
+Ported Model Hash : bf80790b4e267188a715156a07f54641
+Ported Model Date : 1752491477 (2025/07/14)

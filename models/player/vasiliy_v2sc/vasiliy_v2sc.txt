@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vasiliy_v2
+Source Model Hash : 9eed77ec067600b364b03a3f7dbe81be
+Source Model Date : 1523726246 (2018/04/14)
+
+Ported Model Name : vasiliy_v2sc
+Ported Model Hash : d050c00f1c7dc5ea6e042ee2af867d9a
+Ported Model Date : 1752492489 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_cirno_fumo
+Source Model Hash : a29fe37363225fff0e1ae280e654dc41
+Source Model Date : 1690065285 (2023/07/22)
+
+Ported Model Name : touhou_cirno_fumo_v1sc
+Ported Model Hash : 5dba8491280d54ae988c5e7408a5c954
+Ported Model Date : 1752492435 (2025/07/14)

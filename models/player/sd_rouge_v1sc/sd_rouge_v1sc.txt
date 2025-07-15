@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sd_rouge
+Source Model Hash : 51814b98286cb66418ac41bd3a20c73f
+Source Model Date : 1480107184 (2016/11/25)
+
+Ported Model Name : sd_rouge_v1sc
+Ported Model Hash : c5a94741d801946b7e3378189e55df7d
+Ported Model Date : 1752492256 (2025/07/14)

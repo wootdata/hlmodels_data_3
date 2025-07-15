@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_minos_alt
+Source Model Hash : 2392dbaa0cf4552c6664b35beff3fefd
+Source Model Date : 1727913818 (2024/10/02)
+
+Ported Model Name : uk_minos_alt_v1sc
+Ported Model Hash : 72eae3920278b49e13fbfcf7590d7449
+Ported Model Date : 1752492474 (2025/07/14)

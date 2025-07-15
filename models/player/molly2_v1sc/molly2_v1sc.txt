@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : molly2
+Source Model Hash : 1c2ed421d731968b60937c3c849e563a
+Source Model Date : 1266508930 (2010/02/18)
+
+Ported Model Name : molly2_v1sc
+Ported Model Hash : d347632a10bc4f6a36edde098fb2e6c8
+Ported Model Date : 1752492038 (2025/07/14)

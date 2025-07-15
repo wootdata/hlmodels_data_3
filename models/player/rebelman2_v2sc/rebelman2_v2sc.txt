@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rebelman2_v2
+Source Model Hash : a0361fc0a4e9c2e25177020978f11e7e
+Source Model Date : 1583728705 (2020/03/08)
+
+Ported Model Name : rebelman2_v2sc
+Ported Model Hash : 465404811532e30425f41f15c5958235
+Ported Model Date : 1752492193 (2025/07/14)

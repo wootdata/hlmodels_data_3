@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_gerrard
+Source Model Hash : b5f84b642e52c33b22ebace0fd21889b
+Source Model Date : 1276907694 (2010/06/18)
+
+Ported Model Name : cso_gerrard_v1sc
+Ported Model Hash : 8871bc2eff0b691348d5dcd1b3de67af
+Ported Model Date : 1752491553 (2025/07/14)

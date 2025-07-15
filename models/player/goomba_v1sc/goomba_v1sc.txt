@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : goomba
+Source Model Hash : e098d227e15d6a40dc62ba2ac4ecc0ee
+Source Model Date : 1681836623 (2023/04/18)
+
+Ported Model Name : goomba_v1sc
+Ported Model Hash : 095cbf0313551ef09019e394d7563e4d
+Ported Model Date : 1752491733 (2025/07/14)

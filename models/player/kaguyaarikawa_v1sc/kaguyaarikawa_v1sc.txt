@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kaguyaarikawa_mazz
+Source Model Hash : 8f177250f98050ed3719a74e24d09449
+Source Model Date : 1484083258 (2017/01/10)
+
+Ported Model Name : kaguyaarikawa_v1sc
+Ported Model Hash : be0515d192eac1ebcfe21d3e37234798
+Ported Model Date : 1752491869 (2025/07/14)

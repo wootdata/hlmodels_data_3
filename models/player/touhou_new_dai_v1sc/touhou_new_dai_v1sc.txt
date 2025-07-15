@@ -1,0 +1,19 @@
+Credit:
+ Modeling by kita
+
+ smd convert by takedeppo.50cal ....(^^;)b yay
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_new_dai
+Source Model Hash : f0c5a62e75579bd74108fe15fbf5879a
+Source Model Date : 1468239464 (2016/07/11)
+
+Ported Model Name : touhou_new_dai_v1sc
+Ported Model Hash : 43791ab70f5a27002719cad49aa97b66
+Ported Model Date : 1752492442 (2025/07/14)

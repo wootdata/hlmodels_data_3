@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : soctom_v2
+Source Model Hash : c13d368f23087f0514726c2204f31adf
+Source Model Date : 1583739490 (2020/03/09)
+
+Ported Model Name : soctom_v2sc
+Ported Model Hash : 44bb6c508d8e75f03eac5ad6bab8722f
+Ported Model Date : 1752492287 (2025/07/14)

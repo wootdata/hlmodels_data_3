@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mltrxj9
+Source Model Hash : d4544e6c3337352e2c3801d2a111e680
+Source Model Date : 1624101978 (2021/06/19)
+
+Ported Model Name : mltrxj9_v1sc
+Ported Model Hash : 2e0e047dc8612e27e575478ed23aed8d
+Ported Model Date : 1752492037 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_militia
+Source Model Hash : 3f12bb51e29315ead6208106686892c1
+Source Model Date : 1231000636 (2009/01/03)
+
+Ported Model Name : cso_militia_v1sc
+Ported Model Hash : 5ef061ad91b9c459770cb8508e5fb5a0
+Ported Model Date : 1752491555 (2025/07/14)

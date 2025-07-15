@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : amongus_crewmate_black
+Source Model Hash : 0de39d7d66cf017ace763e13babd4e95
+Source Model Date : 1612757713 (2021/02/07)
+
+Ported Model Name : amongus_crewmate1_v1sc
+Ported Model Hash : b67f39666fba026fd54cf435fd02f2a1
+Ported Model Date : 1752491359 (2025/07/14)

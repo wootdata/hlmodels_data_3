@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ooka_miko_v2
+Source Model Hash : 720490c097a7a343d54975bda272ffc3
+Source Model Date : 1563797249 (2019/07/22)
+
+Ported Model Name : ooka_miko_v2sc
+Ported Model Hash : 1ea2be19fc9377823ed5cb688c8ad518
+Ported Model Date : 1752492117 (2025/07/14)

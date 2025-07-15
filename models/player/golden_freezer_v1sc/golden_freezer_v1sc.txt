@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : golden_freezer
+Source Model Hash : 62e28512a3471c1a08c8c0ecc032ba8c
+Source Model Date : 1445323974 (2015/10/19)
+
+Ported Model Name : golden_freezer_v1sc
+Ported Model Hash : c724ba3554ffd20cfadde931c4673e92
+Ported Model Date : 1752491733 (2025/07/14)

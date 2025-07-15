@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greaser_v2
+Source Model Hash : d39e15085a4a7b8ac2e7debb6224dc65
+Source Model Date : 1523995169 (2018/04/17)
+
+Ported Model Name : greaser_v2sc
+Ported Model Hash : b9787a5d9ab11543c05970fc8d4ca25c
+Ported Model Date : 1752491737 (2025/07/14)

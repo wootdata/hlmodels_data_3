@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_nm_bonniehw
+Source Model Hash : 208c264d7399c41cf3a9968ef712ab3f
+Source Model Date : 1463088576 (2016/05/12)
+
+Ported Model Name : da_nm_bonniehw_v1sc
+Ported Model Hash : bd68225a6c728b6cf01d8d7d6a62204a
+Ported Model Date : 1752491587 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : capt_a
+Source Model Hash : 896c0c57d38d755cbac10d6644cf3145
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : capt_a_v1sc
+Ported Model Hash : cac726029e0717e69618cdf76643125b
+Ported Model Date : 1752491460 (2025/07/14)

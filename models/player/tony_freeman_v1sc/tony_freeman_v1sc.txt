@@ -1,0 +1,29 @@
+HEV: Romka
+Sword: ???
+Shield: ???
+Hack and reskin: Tony_Freeman
+__________________________________
+Firstly, thnx for downloading my model.
+This is the second release of my personal player model for Sven Co-op.
+Well, the credits are not really proper, because the sword model was taken from Lt.Chickens
+SC pack, and he didnt include the credits for it either... So i'd just like to say thnx to
+whoever made this awesome model.XD Shield was taken out from HL1.5:Weapon Edition mod,
+and since the developer of that mod didnt include ANY credits, i dont know who made this 
+thing. But thnx anyway.=)
+I know that its a bit tooo high poly, but im a poly whore, and cant do anything about it. XD
+Hope you like it.=)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tony_freeman
+Source Model Hash : c39e387851ec22642511fe11e3518ccf
+Source Model Date : 1267636659 (2010/03/03)
+
+Ported Model Name : tony_freeman_v1sc
+Ported Model Hash : d6fa9d5609adb05e2bb8375970118e99
+Ported Model Date : 1752492429 (2025/07/14)

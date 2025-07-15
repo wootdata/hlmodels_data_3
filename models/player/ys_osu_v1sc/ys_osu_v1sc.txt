@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ys_osu
+Source Model Hash : 645f8d7ef70de8adca91d65db7ae3e73
+Source Model Date : 1445859180 (2015/10/26)
+
+Ported Model Name : ys_osu_v1sc
+Ported Model Hash : 6a740914aeb810de958fb07afbbedc0a
+Ported Model Date : 1752492524 (2025/07/14)

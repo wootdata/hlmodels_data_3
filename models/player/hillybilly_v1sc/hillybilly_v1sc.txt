@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hillybilly
+Source Model Hash : 2830c3453aacab568f0eb5eea4c2d981
+Source Model Date : 1590802102 (2020/05/29)
+
+Ported Model Name : hillybilly_v1sc
+Ported Model Hash : 620bf04059fe9b1109350b51adbc8dd7
+Ported Model Date : 1752491794 (2025/07/14)

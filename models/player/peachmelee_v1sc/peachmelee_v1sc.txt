@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : peachmelee
+Source Model Hash : c45c2e4a372d2a54c90128e4d5b7f84e
+Source Model Date : 1681842800 (2023/04/18)
+
+Ported Model Name : peachmelee_v1sc
+Ported Model Hash : 867975f9f84ae1ca140d31c52d2d7bbb
+Ported Model Date : 1752492151 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : booksimon_svc
+Source Model Hash : f647197773755a176701049be0d17f7a
+Source Model Date : 1483816774 (2017/01/07)
+
+Ported Model Name : booksimon_svc_v1sc
+Ported Model Hash : c6c62aa02546cc30c3ef43e706d82132
+Ported Model Date : 1752491444 (2025/07/14)

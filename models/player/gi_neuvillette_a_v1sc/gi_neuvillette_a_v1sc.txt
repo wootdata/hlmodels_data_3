@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_neuvillette_a
+Source Model Hash : 3b188f90040630693f879286b2e8b2aa
+Source Model Date : 1719937626 (2024/07/02)
+
+Ported Model Name : gi_neuvillette_a_v1sc
+Ported Model Hash : e26e76b5e3197ad87319d8eb150d2fb9
+Ported Model Date : 1752491723 (2025/07/14)

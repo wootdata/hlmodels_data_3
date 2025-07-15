@@ -1,0 +1,16 @@
+by snek
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ae86trueno_color
+Source Model Hash : d9d93e44ce4a18b21b0ee95613feadca
+Source Model Date : 1615828782 (2021/03/15)
+
+Ported Model Name : ae86trueno_color_v1sc
+Ported Model Hash : c6daf51a474ba865373b0b664927dcb6
+Ported Model Date : 1752491334 (2025/07/14)

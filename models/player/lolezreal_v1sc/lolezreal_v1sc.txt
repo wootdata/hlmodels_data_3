@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolezreal
+Source Model Hash : 4b3c0b0c6298d7a01dadc9bbda2e240a
+Source Model Date : 1623928528 (2021/06/17)
+
+Ported Model Name : lolezreal_v1sc
+Ported Model Hash : 6128974ecccc0183b30970f290d999ac
+Ported Model Date : 1752491957 (2025/07/14)

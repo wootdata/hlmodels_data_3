@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cookie_mgr
+Source Model Hash : ee1e4119039d34d246a9f38c294fac97
+Source Model Date : 1691254828 (2023/08/05)
+
+Ported Model Name : cookie_mgr_v1sc
+Ported Model Hash : bfd01581641ddd6f354f1032cf902946
+Ported Model Date : 1752491522 (2025/07/14)

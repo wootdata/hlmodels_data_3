@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nazi_zomb1
+Source Model Hash : b85d4910c6bc78459d5338d5712de5bc
+Source Model Date : 1279420500 (2010/07/17)
+
+Ported Model Name : nazi_zomb1_v1sc
+Ported Model Hash : 430d879a471af84493c16922185d35a0
+Ported Model Date : 1752492076 (2025/07/14)

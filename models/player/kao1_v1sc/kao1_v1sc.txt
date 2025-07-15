@@ -1,0 +1,29 @@
+------------------------------------------------------
+kao1 a.k.a Defiant Face  (from MapleStory)
+for Sven Co-op 5.0 player model
+
+meipuru meipuru pu-rupuru
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+02-11-2018 completed
+------------------------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kao1
+Source Model Hash : de0d3ded856bce5c5841ab1465b27f78
+Source Model Date : 1541162461 (2018/11/02)
+
+Ported Model Name : kao1_v1sc
+Ported Model Hash : fdcbb5459f2c7946a7707a714879424f
+Ported Model Date : 1752491872 (2025/07/14)

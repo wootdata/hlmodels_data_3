@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gf_ntw-20_bunny_g
+Source Model Hash : e456838b7f8aaac09933abdca72213ea
+Source Model Date : 1643742396 (2022/02/01)
+
+Ported Model Name : gf_ntw-20_bunny_g_v1sc
+Ported Model Hash : d5b355f3a5590d82de424248a120ba9a
+Ported Model Date : 1752491694 (2025/07/14)

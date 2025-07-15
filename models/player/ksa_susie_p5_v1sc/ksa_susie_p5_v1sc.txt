@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ksa_susie_p5
+Source Model Hash : f801588711ec05f074a092dbb709e9f1
+Source Model Date : 1619400258 (2021/04/25)
+
+Ported Model Name : ksa_susie_p5_v1sc
+Ported Model Hash : eb9a06dba1243e402f7254c5aad36e17
+Ported Model Date : 1752491912 (2025/07/14)

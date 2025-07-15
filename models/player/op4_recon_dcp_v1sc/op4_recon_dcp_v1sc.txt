@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_recon_dcp
+Source Model Hash : f720e8d5b8906ed7eb3649e530c4153e
+Source Model Date : 1609696880 (2021/01/03)
+
+Ported Model Name : op4_recon_dcp_v1sc
+Ported Model Hash : c2ac89012c058968c7a8e79964c75781
+Ported Model Date : 1752492122 (2025/07/14)

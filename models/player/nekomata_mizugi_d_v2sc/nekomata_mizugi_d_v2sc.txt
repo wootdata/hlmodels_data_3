@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomata_mizugi_d_v2
+Source Model Hash : 62ce8d3786a285540f33f5e5a2c64ed2
+Source Model Date : 1583400847 (2020/03/05)
+
+Ported Model Name : nekomata_mizugi_d_v2sc
+Ported Model Hash : 675d42c31511293f9fa1a5ef69f3a5b2
+Ported Model Date : 1752492081 (2025/07/14)

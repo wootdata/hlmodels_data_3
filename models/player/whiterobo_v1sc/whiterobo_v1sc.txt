@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : whiterobo
+Source Model Hash : ff4f1babfdadc424af63021231ca79db
+Source Model Date : 1618735360 (2021/04/18)
+
+Ported Model Name : whiterobo_v1sc
+Ported Model Hash : b435ba9b74feedf685705450f757db3e
+Ported Model Date : 1752492508 (2025/07/14)

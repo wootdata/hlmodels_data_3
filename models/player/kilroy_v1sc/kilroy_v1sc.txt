@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kilroy
+Source Model Hash : 7822aac43d969639e11e356803555805
+Source Model Date : 1429476174 (2015/04/19)
+
+Ported Model Name : kilroy_v1sc
+Ported Model Hash : 9734ad5c962d24b78a14520be3f4fa39
+Ported Model Date : 1752491890 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : military_police
+Source Model Hash : 7f7d3761acc6f8df3af791b8de7be4f4
+Source Model Date : 1461988910 (2016/04/29)
+
+Ported Model Name : military_police_v1sc
+Ported Model Hash : a805c42f24301bc5f9755c9af3bc532f
+Ported Model Date : 1752492025 (2025/07/14)

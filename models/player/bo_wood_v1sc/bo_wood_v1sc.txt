@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bo_wood
+Source Model Hash : 5962c1799bcd289596bda507e3940acb
+Source Model Date : 1453014104 (2016/01/16)
+
+Ported Model Name : bo_wood_v1sc
+Ported Model Hash : c1519c6446502b4cb2673192ab55ff52
+Ported Model Date : 1752491445 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_sans
+Source Model Hash : 6a36d597e3dcefdb1c8d81aecf45660f
+Source Model Date : 1553792376 (2019/03/28)
+
+Ported Model Name : 2d_sans_v1sc
+Ported Model Hash : c596c157ae3388dac7d351cea95f9fbe
+Ported Model Date : 1752491318 (2025/07/14)

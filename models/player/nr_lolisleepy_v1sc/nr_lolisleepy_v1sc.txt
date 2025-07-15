@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_lolisleepy
+Source Model Hash : 707f6dc3f8718a56891d1a7a55e3e9d1
+Source Model Date : 1473563946 (2016/09/10)
+
+Ported Model Name : nr_lolisleepy_v1sc
+Ported Model Hash : 002a7d32197ded93ae369bbb8d016aea
+Ported Model Date : 1752492102 (2025/07/14)

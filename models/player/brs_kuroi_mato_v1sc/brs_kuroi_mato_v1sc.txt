@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : brs_kuroi_mato
+Source Model Hash : 11e8fc90a485c878d8dffcf1c86f396f
+Source Model Date : 1442458398 (2015/09/16)
+
+Ported Model Name : brs_kuroi_mato_v1sc
+Ported Model Hash : a5885e4ab116ea63e2abf597b735d86a
+Ported Model Date : 1752491449 (2025/07/14)

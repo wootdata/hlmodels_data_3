@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nufyllis
+Source Model Hash : 15f39c16360a9716c0b33736623fed09
+Source Model Date : 1685999717 (2023/06/05)
+
+Ported Model Name : nufyllis_v1sc
+Ported Model Hash : 71f4a7ed1ef6799479c0b37d12c8eac9
+Ported Model Date : 1752492105 (2025/07/14)

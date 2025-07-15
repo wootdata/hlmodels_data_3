@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : woop_col
+Source Model Hash : 32dfad66d4959c5736fbab719350d473
+Source Model Date : 1690858707 (2023/07/31)
+
+Ported Model Name : woop_col_v1sc
+Ported Model Hash : ed23c11b6c15b69b29585ed29666039c
+Ported Model Date : 1752492511 (2025/07/14)

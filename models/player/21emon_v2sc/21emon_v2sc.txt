@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 21emon_v2
+Source Model Hash : 718d9dd34900c4e806c4c75a693fb73f
+Source Model Date : 1591343444 (2020/06/05)
+
+Ported Model Name : 21emon_v2sc
+Ported Model Hash : 0f24f6651b9a1a8be4ea12e79dba8a8a
+Ported Model Date : 1752491304 (2025/07/14)

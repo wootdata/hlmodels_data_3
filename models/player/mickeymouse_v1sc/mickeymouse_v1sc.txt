@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mickeymouse
+Source Model Hash : ae8e8647deba23da9f9a7abdca42e31e
+Source Model Date : 1671393244 (2022/12/18)
+
+Ported Model Name : mickeymouse_v1sc
+Ported Model Hash : aab67a4d7fd0c23b29e6e2371376b395
+Ported Model Date : 1752492015 (2025/07/14)

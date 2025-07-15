@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlhd_sarge
+Source Model Hash : c1c412175ee62f5c67d2dc71ded0d8e6
+Source Model Date : 1650753038 (2022/04/23)
+
+Ported Model Name : hlhd_sarge_v1sc
+Ported Model Hash : 13e80597144c0ee65b3a978e74483863
+Ported Model Date : 1752491805 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rocko
+Source Model Hash : b20f432d0ae2b1b2e49ba8409f038cb4
+Source Model Date : 1269359868 (2010/03/23)
+
+Ported Model Name : rocko_v1sc
+Ported Model Hash : 0ae401940b3e8e7f36d81f96784608b8
+Ported Model Date : 1752492220 (2025/07/14)

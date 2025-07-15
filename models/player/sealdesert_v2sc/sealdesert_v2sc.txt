@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sealdesert_v2
+Source Model Hash : fbec45405234e7f3cdcb942e06f34b5f
+Source Model Date : 1583907062 (2020/03/10)
+
+Ported Model Name : sealdesert_v2sc
+Ported Model Hash : 72d6db377fcef32fcad547f0b25af2bc
+Ported Model Date : 1752492256 (2025/07/14)

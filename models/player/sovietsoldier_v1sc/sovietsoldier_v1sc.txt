@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sovietsoldier
+Source Model Hash : 37f359e5d447a78782e554b13525da27
+Source Model Date : 1269932225 (2010/03/29)
+
+Ported Model Name : sovietsoldier_v1sc
+Ported Model Hash : a920d1b5b72310984b17e9f8656e8ff1
+Ported Model Date : 1752492301 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : akyu
+Source Model Hash : c8127640d5fc15b02f67ff367f5ce8bd
+Source Model Date : 1411828610 (2014/09/27)
+
+Ported Model Name : akyu_v1sc
+Ported Model Hash : 3b17c48d635ceffb2bf5b2d5d927ee10
+Ported Model Date : 1752491350 (2025/07/14)

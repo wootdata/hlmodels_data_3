@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : babykitkat_v2
+Source Model Hash : 0f1b157bcf21e71498a481324407506b
+Source Model Date : 1590447357 (2020/05/25)
+
+Ported Model Name : babykitkat_v2sc
+Ported Model Hash : a62c1bf2f276141c18f00a735fddf5a7
+Ported Model Date : 1752491396 (2025/07/14)

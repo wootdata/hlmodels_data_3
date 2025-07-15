@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alpha_valve
+Source Model Hash : de2fcc12a0ea93be2493f36fa71d7142
+Source Model Date : 1468786526 (2016/07/17)
+
+Ported Model Name : alpha_valve_v1sc
+Ported Model Hash : a71f29bd6e6732e094196f6cfffc3727
+Ported Model Date : 1752491355 (2025/07/14)

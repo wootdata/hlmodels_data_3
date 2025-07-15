@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : banshee
+Source Model Hash : 3c1f86e2102ee64b6971496d580a1b08
+Source Model Date : 1582887025 (2020/02/28)
+
+Ported Model Name : banshee_v1sc
+Ported Model Hash : 0e473d5f5f0dc5200be2ddbd25e27376
+Ported Model Date : 1752491401 (2025/07/14)

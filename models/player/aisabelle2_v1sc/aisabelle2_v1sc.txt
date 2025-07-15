@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aisabelle2
+Source Model Hash : 58fb796628bd985483664c1e63f9acce
+Source Model Date : 1612036175 (2021/01/30)
+
+Ported Model Name : aisabelle2_v1sc
+Ported Model Hash : c224c5a4a6a211492d3b6e435733f87b
+Ported Model Date : 1752491349 (2025/07/14)

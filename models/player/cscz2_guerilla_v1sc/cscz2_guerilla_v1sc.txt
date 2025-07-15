@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cscz2_guerilla
+Source Model Hash : 000f1693fd4d546bb41733f73512e050
+Source Model Date : 1586033279 (2020/04/04)
+
+Ported Model Name : cscz2_guerilla_v1sc
+Ported Model Hash : c64e88b1d3fcdab8325401f6137092ee
+Ported Model Date : 1752491544 (2025/07/14)

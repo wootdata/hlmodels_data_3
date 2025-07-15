@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hdn_neptune-miz-c2
+Source Model Hash : f7ee05fb6521e819b52cc50b7a0bde93
+Source Model Date : 1553684586 (2019/03/27)
+
+Ported Model Name : 2d_hdn_nep-miz-c2_v1sc
+Ported Model Hash : f263fabf9a047919341ac09e59ca60e1
+Ported Model Date : 1752491310 (2025/07/14)

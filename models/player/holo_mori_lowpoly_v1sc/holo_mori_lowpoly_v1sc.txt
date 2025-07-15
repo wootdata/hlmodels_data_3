@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_mori_lowpoly
+Source Model Hash : 12160e3bba7235657e7c5822ceda2ce7
+Source Model Date : 1618412586 (2021/04/14)
+
+Ported Model Name : holo_mori_lowpoly_v1sc
+Ported Model Hash : 00f5fcd90046ba7f5d858d3d19dd1c76
+Ported Model Date : 1752491826 (2025/07/14)

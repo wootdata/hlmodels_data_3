@@ -1,0 +1,18 @@
+yuuka4
+
+Model : Montecore, Predator 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yuuka4
+Source Model Hash : 2dac52d235e47a29eb6dfb9d167ddb48
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : yuuka4_v1sc
+Ported Model Hash : 30e16f7bbc1fdae7718b5c26e3e39578
+Ported Model Date : 1752492526 (2025/07/14)

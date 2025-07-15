@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fu2_v2
+Source Model Hash : 6b9aeeebdd4b01274f7c24875c471342
+Source Model Date : 1583876365 (2020/03/10)
+
+Ported Model Name : fu2_v2sc
+Ported Model Hash : 0dcc2e743bb770fea46624efe784a741
+Ported Model Date : 1752491663 (2025/07/14)

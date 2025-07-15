@@ -1,0 +1,29 @@
+{
+    "classname" "studio_texture"
+    "basetexture" "*"
+    "flags" "STUDIO_NF_CELSHADE"
+}
+{
+    "classname" "studio_texture"
+    "basetexture" "tex20.bmp"
+    "flags" "STUDIO_NF_CELSHADE_FACE"
+}
+{
+    "classname" "studio_efx"
+    "flags" "EF_OUTLINE"
+}
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_sanae_jky_v3
+Source Model Hash : f41ee044989c3b660f10f4c33fc4c51f
+Source Model Date : 1630361092 (2021/08/30)
+
+Ported Model Name : touhou_sanae_jky_v3sc
+Ported Model Hash : 323ffb92a983e21be4fb25fc07858d91
+Ported Model Date : 1752492448 (2025/07/14)

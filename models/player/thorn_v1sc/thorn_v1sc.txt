@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thorn
+Source Model Hash : 9a1ef1c4c059f90e5461e6f6385afa19
+Source Model Date : 1591336374 (2020/06/04)
+
+Ported Model Name : thorn_v1sc
+Ported Model Hash : 2ea51d19d7f5abf05d19eecea70fc457
+Ported Model Date : 1752492415 (2025/07/14)

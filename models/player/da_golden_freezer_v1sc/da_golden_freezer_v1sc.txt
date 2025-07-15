@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_golden_freezer
+Source Model Hash : 6b6efcf0680b75ed498f25fcdf5672e1
+Source Model Date : 1461122706 (2016/04/19)
+
+Ported Model Name : da_golden_freezer_v1sc
+Ported Model Hash : 36c89e215b2cbd3d6842facd72d50aea
+Ported Model Date : 1752491586 (2025/07/14)

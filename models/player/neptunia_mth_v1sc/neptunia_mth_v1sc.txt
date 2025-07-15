@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : neptunia_mth
+Source Model Hash : 47563aaac15cccdc8a8d0d98b149d4ee
+Source Model Date : 1469462909 (2016/07/25)
+
+Ported Model Name : neptunia_mth_v1sc
+Ported Model Hash : 2e6af832861f549ac92cbba4f2487043
+Ported Model Date : 1752492090 (2025/07/14)

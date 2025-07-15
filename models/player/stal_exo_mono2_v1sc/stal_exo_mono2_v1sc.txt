@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_exo_monolith_2
+Source Model Hash : 2a9188191ddbd4bfef3d1a1e86293e75
+Source Model Date : 1271582928 (2010/04/18)
+
+Ported Model Name : stal_exo_mono2_v1sc
+Ported Model Hash : fd5343efc394646272d6b516dd21d5eb
+Ported Model Date : 1752492332 (2025/07/14)

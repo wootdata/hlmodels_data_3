@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_ugandatrump_vo
+Source Model Hash : 9c3ad155e7d8e6582fe1123da1d12dcf
+Source Model Date : 1697369362 (2023/10/15)
+
+Ported Model Name : lt_ugandatrump_vo_v1sc
+Ported Model Hash : ba0dbc868177c8582603af74abc9b6ab
+Ported Model Date : 1752491971 (2025/07/14)

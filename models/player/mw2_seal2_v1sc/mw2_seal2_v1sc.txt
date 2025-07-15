@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_seal2
+Source Model Hash : 96c0fe7aec0dd3873dc0c9bffb05075d
+Source Model Date : 1281698820 (2010/08/13)
+
+Ported Model Name : mw2_seal2_v1sc
+Ported Model Hash : 7023a04fb45798b7721bb1213f588e78
+Ported Model Date : 1752492054 (2025/07/14)

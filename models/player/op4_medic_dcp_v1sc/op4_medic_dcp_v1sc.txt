@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_medic_dcp
+Source Model Hash : 76a591b8a178d79862d6bc44edd3ee68
+Source Model Date : 1609695300 (2021/01/03)
+
+Ported Model Name : op4_medic_dcp_v1sc
+Ported Model Hash : 2ad16eda08aaeb24cdaa11c3913d51de
+Ported Model Date : 1752492121 (2025/07/14)

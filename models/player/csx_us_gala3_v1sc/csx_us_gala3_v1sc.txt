@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csx_us_gala3
+Source Model Hash : 29c6fa9cc01116195478594971ae345e
+Source Model Date : 1618009792 (2021/04/09)
+
+Ported Model Name : csx_us_gala3_v1sc
+Ported Model Hash : d05a345f1a3a540512a5167eb86c9088
+Ported Model Date : 1752491566 (2025/07/14)

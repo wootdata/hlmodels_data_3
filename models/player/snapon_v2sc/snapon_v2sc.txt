@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : snapon_v2
+Source Model Hash : 0d3614e7c762e99adeffeca54a08ef4b
+Source Model Date : 1583371659 (2020/03/04)
+
+Ported Model Name : snapon_v2sc
+Ported Model Hash : 6c2d4e4d600aca65830a9015f28abe63
+Ported Model Date : 1752492285 (2025/07/14)

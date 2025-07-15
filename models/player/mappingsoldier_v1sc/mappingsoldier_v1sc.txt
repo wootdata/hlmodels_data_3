@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mappingsoldier
+Source Model Hash : 56fa13a3f270cccfd1ecd21ece3501da
+Source Model Date : 1419123418 (2014/12/20)
+
+Ported Model Name : mappingsoldier_v1sc
+Ported Model Hash : 37b49ddf6d375aa1e17fa3b2cccc424d
+Ported Model Date : 1752491984 (2025/07/14)

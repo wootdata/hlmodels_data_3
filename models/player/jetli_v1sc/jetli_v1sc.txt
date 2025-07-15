@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jetli
+Source Model Hash : 78d464d63fb6ffb592de9aa3a98ee535
+Source Model Date : 1263925808 (2010/01/19)
+
+Ported Model Name : jetli_v1sc
+Ported Model Hash : 2da748a8e27ba870e3f030129e763232
+Ported Model Date : 1752491861 (2025/07/14)

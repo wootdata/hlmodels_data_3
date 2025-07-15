@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grunt_enemy
+Source Model Hash : 35c939dcd82b05b718163710b0e9d85c
+Source Model Date : 1484901280 (2017/01/20)
+
+Ported Model Name : grunt_enemy_v1sc
+Ported Model Hash : edb8d7c5c8cfa5d05d6f3c492b4ecf53
+Ported Model Date : 1752491743 (2025/07/14)

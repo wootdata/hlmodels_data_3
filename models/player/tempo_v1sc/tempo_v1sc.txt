@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tempo
+Source Model Hash : 986584ac754e01bf38f7c76a493e21f8
+Source Model Date : 1230283780 (2008/12/26)
+
+Ported Model Name : tempo_v1sc
+Ported Model Hash : 7f2277f1bbba5dcf7252ecefc28056d3
+Ported Model Date : 1752492399 (2025/07/14)
