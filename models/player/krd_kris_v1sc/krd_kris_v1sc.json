@@ -208,7 +208,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223620,
+	"date": 1758225749,
 	"events": [
 		{
 			"event": 5005,
@@ -469,8 +469,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "KRD_Kris.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

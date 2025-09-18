@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greentea_4
+Source Model Hash : c52b155404a9d962ff5dc0def894fbdc
+Source Model Date : 1740071188 (2025/02/20)
+
+Ported Model Name : greentea_4_v1sc
+Ported Model Hash : 4ba620ed587ca5bb48603551cbe04793
+Ported Model Date : 1758225741 (2025/09/18)

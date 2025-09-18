@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : krd_kris
+Source Model Hash : 828895796b4ec165cf0e03434336b074
+Source Model Date : 1755888743 (2025/08/22)
+
+Ported Model Name : krd_kris_v1sc
+Ported Model Hash : ea1524d52e0cee7ee0190dcb68256412
+Ported Model Date : 1758225749 (2025/09/18)

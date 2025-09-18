@@ -148,7 +148,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223607,
+	"date": 1758225725,
 	"events": [
 		{
 			"event": 5004,
@@ -801,8 +801,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "BA_Mob_TG.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
