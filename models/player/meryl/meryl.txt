@@ -1,0 +1,8 @@
+Meryl Silverberg skin for the Nympho model.
+by KMan <kman@valveworld.com>
+
+Yay it's finally here!! I finally broke down and made the famous Solid Snake from Metal Gear Solid!
+Just extract the zip into the
+\models\player folder so that it makes a folder named snake.
+
+Not that many good female models out there to use as a base, so this is what I am stuck with, for now. Enjoy! It took me a few weeks of on and off work to get this one done. Keep your eyes peeled for a solid snake skin, as well as a snake skin with scuba gear, both for the Gordon model.

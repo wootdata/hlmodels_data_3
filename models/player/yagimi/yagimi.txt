@@ -1,0 +1,4 @@
+Model: Yagimi
+Author: blacksnow
+Released: 03/16/2001
+Size: 187kb

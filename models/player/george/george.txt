@@ -1,0 +1,15 @@
+This Half-Life model was created by IXNAY
+
+
+Skinner:	Matze alias IXNAY
+E-Mail:		Ixnay@gmx.ch
+Homepage:	www.matze.privat.ms
+Base:		GreyFox
+Description: 	This is the Giga-George model (in a super NBC Giga-Moderator suit) !!!
+Buildtime:	1 Hour
+Installation:   Just unzip this zip file into your Half-Life\valve\models\player\George directory and run the game. 
+
+
+MAIL ME and VISIT MY HOMEPAGE !!!
+
+IXNAY

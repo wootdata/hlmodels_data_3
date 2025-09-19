@@ -1,0 +1,3 @@
+Model: eole.mdl
+Author: Nycotyne
+Release Date: 02/27/2001

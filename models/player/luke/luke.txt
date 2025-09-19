@@ -1,0 +1,15 @@
+LuKe - The Ultimate Cyborg Soldier
+----------------------------------
+Created by LuKe
+luke@cyberconcept.fr
+----------------------------------
+[August 5th, 1999]
+
+This is my first and my own personal model for Half-Life.
+Feel free to use it if you like it.
+
+Put the files in Half-Life/valve/models/Player/LuKe.
+Check your color settings, some pixels still change color,
+so adjust accordingly if needed.
+
+Have fun!

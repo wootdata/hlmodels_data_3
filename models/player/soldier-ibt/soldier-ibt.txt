@@ -1,0 +1,20 @@
+Soldier Model
+Brought to you by the one and only, 'BrantK/TheBest'
+email: BrantK@Hotmail.com
+
+contains: 1 mdl file
+	  2 bmp files (sorry about the crappy screenshot)
+	  1 txt file (i think you knew that...)
+	  
+
+the model was created by simply extracting a file I found in tfc's pak0.pak... It looks 
+_AMA2ING_ in game! Set you're colors to the same if you dont want to see the symbol, the
+hand. If you like this model, but would prefer, for example, the PYRO, you should now 
+know how to do it.
+
+credits:
+Ashley _Bone_ (coincidence??), creator of Pak Explorer
+The tfc people, because they actually created the file...
+
+Other great works of BrantK...
+-skeleton

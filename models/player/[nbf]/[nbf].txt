@@ -1,0 +1,28 @@
+Type: 		Halflife Multiplayer Pluggin Model
+
+Name: 		[NBF]
+
+Release Date: 	30/01/2000
+
+Author:		M Propre[NBF]     
+
+E-Mail:		M-Propre@Wanadoo.fr
+
+Homepage: 	http://Altern.org/NBF/
+
+Files:		[NBF].mdl, [NBF].bmp, ReadMe.txt 			
+
+Instructions:	Create a folder  Half-life\valve\models\player\[NBF]
+                and just copy all the file into there.
+
+		This is the [NBF]'s Official Model, so please don't use it if you're not a [NBF], THX.
+
+Thanx:		Thanx to Mete Ciragan for MILKSHAPE3D. And Valve for HL  :-)
+
+Technical infos : 
+
+	Vertex  	565
+	Triangles	969
+	Materials 	5
+	Smoothing gr.	1
+	Joints		22
