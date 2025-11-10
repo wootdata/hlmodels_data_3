@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_rc
+Source Model Hash : 7b973cdc486a8cd0c642ff52a4f1964f
+Source Model Date : 1762384120 (2025/11/05)
+
+Ported Model Name : holo_rc_v1sc
+Ported Model Hash : b1caa56d11f63706e961532775c521fd
+Ported Model Date : 1762777780 (2025/11/10)
