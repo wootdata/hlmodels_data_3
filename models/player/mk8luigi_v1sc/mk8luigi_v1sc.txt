@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk8luigi
+Source Model Hash : fdd712af4e0bf8f52c838adabb05f036
+Source Model Date : 1770686340 (2026/02/09)
+
+Ported Model Name : mk8luigi_v1sc
+Ported Model Hash : aff46db9e7ac7439b902146fcc1168e7
+Ported Model Date : 1780823044 (2026/06/07)

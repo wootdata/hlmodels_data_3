@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smobuildmar
+Source Model Hash : 42fc0e03888baba9a2f47787dd1589e1
+Source Model Date : 1773609132 (2026/03/15)
+
+Ported Model Name : smobuildmar_v1sc
+Ported Model Hash : c9ceca14c7fa04c86e65737cf5f12c37
+Ported Model Date : 1780823048 (2026/06/07)
